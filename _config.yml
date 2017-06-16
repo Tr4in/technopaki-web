@@ -35,15 +35,15 @@ compress_html:
 links:
   - title: Home
     url: /
-  - title: Kategorien
+  - title: Tags
     url: /tags
 
 # Imprint etc. ...
 footerinfo:
-  - imprint: Impressum
-    url: /impressum
-  - privacy: Datenschutz
-    url: /datenschutz
+  - imprint: Imprint
+    url: /imprint
+  - privacy: Privacy Policy
+    url: /privacy
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
