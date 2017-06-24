@@ -46,4 +46,4 @@ footerinfo:
     url: /privacy
 
 # exclude my node related stuff
-exclude: ['package.json', 'src', 'node_modules']
+exclude: ['package.json', 'src', 'node_modules', .firebaserc, firebase.json]
